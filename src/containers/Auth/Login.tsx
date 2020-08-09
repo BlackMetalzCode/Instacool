@@ -14,7 +14,7 @@ class Login extends Component {
             <Card>
               <Title>Iniciar Sension</Title>
               <Inputs placeholder='Correo' label= 'Correo'/>
-              <Inputs placeholder='Contraseña' label='Contrase;a'/>
+              <Inputs placeholder='Contraseña' label='Contraseña'/>
               <Button block={true}>Enviar</Button>
               <Center>
               <Link to='/register'>Registrarse</Link>
